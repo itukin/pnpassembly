@@ -4,6 +4,8 @@ Turnkey **Pick and Place (PnP) machine assembly** for DIY electronics, prototypi
 
 👉 https://pnp.radzone.tech
 
+👉 https://telegra.ph/PNP-Aksesuari-03-29
+
 ---
 
 ## 🚀 What is this
